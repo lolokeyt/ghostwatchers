@@ -1,0 +1,85 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+    margin: 0;
+}
+.header {
+    background-image: url(ПОН.jpg);
+    height: 100vh ; 
+    background-repeat: no-repeat;
+    background-size: cover;       
+
+
+}
+.header-line{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav-item{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+    margin-right: 50px;
+    transition: color 0.3s linear;
+
+}
+.nav-item:hover{
+    color: #c50aeb;
+}
+.header-title{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+.header-subtitle{
+
+}
+.text{
+    color: #fff;
+    text-align: center; 
+}
+.text1{
+    color: #fff;
+    text-align:left;
+}
+.text2{
+    color: #fff;
+}
+.prizrak{
+    background-image: url(prizrak.jpg);
+    height: 100vh ; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.prizrak-title{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+}
+.prizrak-pol{
+    color: #fff;
+    text-align: left;
+    font-weight: 100;
+    font-size: 30px;
+}
+.prizrak-pol1{
+    color: #fff;
+    text-align: left;
+    font-size: 17px;
+}
+.prizrak-vis{
+    color: #fff;
+    text-align: left;
+    font-weight: 100;
+    font-size: 30px;
+}
+.prizrak-vis1{
+    color: #fff;
+    text-align: left;
+    font-size: 17px;
+}
